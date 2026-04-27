@@ -27,4 +27,4 @@ npm run build
 
 ## Notes
 
-The `docs/*.md` files in the repository were stored in RTF format, so the site uses plain markdown text converted into `src/content/`.
+site uses plain markdown text converted into `src/content/`.
